@@ -1,0 +1,13 @@
+第一次学习C语言代码，惯例写出人生第一个代码 Holle Word
+
+
+
+
+
+#include<stdio.h>
+
+int main()
+{
+  printf("%s\n","Holle Word");
+	return 0;
+}
